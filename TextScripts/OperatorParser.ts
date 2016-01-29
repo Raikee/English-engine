@@ -9,3 +9,10 @@ class add {
         return /add/g.test(input);
     }
 }
+
+class sub {
+    //checks for the subtract word in text.
+    public static issub(input:string) {
+        return /subtract/g.test(input);
+    }
+}

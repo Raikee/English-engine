@@ -1,0 +1,28 @@
+class
+function
+loop
+operator
+while loop
+for loop
+switch
+statement
+boolean
+integer
+types
+list
+array
+hashmap
+hash
+hashset
+binary tree
+trees
+variable
+pointer
+data structure
+inheritance
+java
+python
+iterate
+recursively
+recursive
+recursion

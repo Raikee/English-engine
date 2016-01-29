@@ -10,4 +10,13 @@ var add = (function () {
     };
     return add;
 })();
+var sub = (function () {
+    function sub() {
+    }
+    //checks for the subtract word in text.
+    sub.issub = function (input) {
+        return /subtract/g.test(input);
+    };
+    return sub;
+})();
 //# sourceMappingURL=OperatorParser.js.map
